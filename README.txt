@@ -1,5 +1,5 @@
 - Hi, I’m **ru55o**
-- How to reach me: r55@disroot.org
-- My domain: https://chadirc.xyz
-    · Here, I host an IRC server, a SearXNG instance, a mirror and a blog (which is empty yet).
-    · For any suggestion write an email.
+- How to reach me: ru55o@chadirc.xyz
+- My website: https://chadirc.xyz
+    · Here, I host my mail, an IRC server, a SearXNG instance, a mirror and a blog.
+    · For any suggestion write me an email.
